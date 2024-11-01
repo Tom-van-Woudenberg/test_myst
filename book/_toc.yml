@@ -189,9 +189,9 @@ parts:
     sections:
     - file: week_10/homework/intro
     - file: week_10/session/intro
-  - file: week_1/intro
+  - file: week_11/intro
     sections:
-    - file: week_1/session_1/intro
+    - file: week_11/session_1/intro
     
 - caption: Miscellaneous
   chapters:
