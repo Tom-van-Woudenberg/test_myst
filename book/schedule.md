@@ -66,7 +66,7 @@ Click the dropdown blocks below to find a detailed schedule for the course activ
 {{week17}}
 ```
 
-```{dropdown} Week 18 (December 30th)
+```{dropdown} Week 18 (January 6th)
 {{week18}}
 ```
 
