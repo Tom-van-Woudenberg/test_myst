@@ -107,17 +107,17 @@ parse:
     week13: |
       ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming homework|
       |:-:|:-:|:-:|:-:|:--:|:-:|:-:|
-      |Homework deadlines |[Read theory and make homework exercise transforming tensors](homework13.1) <br>{bdg-primary}`New content`|[Read theory and make homework exercise Circle of Mohr](homework13.2) <br>{bdg-primary}`New content`|||[Read theory and make homework exercise torsional internal forces](homework13.3) <br>{bdg-secondary}`Prerequisites`|Monday: [Read theory and make homework exercises shear stresses in torsional elements](homework14.1) <br>{bdg-secondary}`New content`|
-      |Class activities|[Guided practice on transforming tensors](session13.1)<br>{bdg-primary-line}`New content`|[Guided practice on Circle of Mohr](session13.2) <br>{bdg-primary-line}`Prerequisites`|||[Guided practice on torsional internal forces](session13.3) <br> {bdg-secondary-line}`Prerequisites`|
+      |Homework deadlines |[Read theory and make homework exercise transforming tensors](homework13.1) <br>{bdg-primary}`New content`|[Read theory and make homework exercise Circle of Mohr](homework13.2) <br>{bdg-primary}`New content`|||[Read theory and make homework exercise torsional internal forces](homework13.3) <br>{bdg-secondary}`Prerequisites`|Monday: [Read theory and make homework exercises shear stresses in torsional elements](homework14.1) <br>{bdg-secondary}`Prerequisites`|
+      |Class activities|[Guided practice on transforming tensors](session13.1)<br>{bdg-primary-line}`New content`|[Guided practice on Circle of Mohr](session13.2) <br>{bdg-primary-line}`New content`|||[Guided practice on torsional internal forces](session13.3) <br> {bdg-secondary-line}`Prerequisites`|
     week14: |
       ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming homework|
       |:-:|:-:|:-:|:-:|:--:|:-:|:-:|
-      |Homework deadlines |[Read theory and make homework exercise shear stresses in torsional elements](homework14.1) <br>{bdg-secondary}`Prerequisites`|[Read theory and make homework exercise shear force centre](homework14.2) <br>{bdg-secondary}`Prerequisites`|||[Read theory and make homework exercise failure criteria](homework14.3) <br>{bdg-secondary}`Prerequisites`|Wednesday: [Prepare for exam statically indeterminate structure and continuum mechanics](homework15.2) <br>{bdg-secondary}`New content`<br>{bdg-secondary}`Prerequisites`|
-      |Class activities|[Guided practice on shear stresses in torsional elements(session14.1)<br>{bdg-secondary}`Prerequisites`|[Guided practice on shear force centre](session14.2) <br>{bdg-secondary}`Prerequisites`|||[Guided practice on failure criteria](session14.3) <br> {bdg-primary-line}`New content`|
+      |Homework deadlines |[Read theory and make homework exercise shear stresses in torsional elements](homework14.1) <br>{bdg-secondary}`Prerequisites`|[Read theory and make homework exercise shear force centre](homework14.2) <br>{bdg-secondary}`Prerequisites`|||[Read theory and make homework exercise failure criteria](homework14.3) <br>{bdg-primary}`New content`|Wednesday: [Prepare for exam statically indeterminate structure and continuum mechanics](homework15.2) <br>{bdg-primary}`New content`<br>{bdg-secondary}`Prerequisites`|
+      |Class activities|[Guided practice on shear stresses in torsional elements](session14.1)<br>{bdg-secondary-line}`Prerequisites`|[Guided practice on shear force centre](session14.2) <br>{bdg-secondary-line}`Prerequisites`|||[Guided practice on failure criteria](session14.3) <br> {bdg-primary-line}`New content`|
     week15: |
       ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming homework|
       |:-:|:-:|:-:|:-:|:--:|:-:|:-:|
-      |Homework deadlines ||[Prepare for exam statically indeterminate structure and continuum mechanics](homework15.2) <br>{bdg-secondary}`New content`<br>{bdg-secondary}`Prerequisites`||||To be determined|
+      |Homework deadlines ||[Prepare for exam statically indeterminate structure and continuum mechanics](homework15.2) <br>{bdg-primary}`New content`<br>{bdg-secondary}`Prerequisites`||||To be determined|
       |Class activities||[Exam statically indeterminate structure and continuum mechanics](exam2) <br>{bdg-primary-line}`New content` <br> {bdg-secondary-line}`Prerequisites`||||
     week16: "To be provided"
     week17: "To be provided"
