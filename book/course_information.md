@@ -40,13 +40,13 @@ The support by lecturers and TAs in class comprises of:
 (exam-general)=
 ## Assessment
 The learning will be assessed incrementally:
-- Exam period Q1, assignment on statically indeterminate structures
-- Halfway Q2, assignments on statically indeterminate structures and continuum mechanics
-- Exam period Q2, assignments on buckling and continuum mechanics
-- Exam period Q3, assignments on statically indeterminate structures, on buckling and on continuum mechanics
+- Exam week period Q1, exam assignment on statically indeterminate structures
+- Halfway Q2, exam assignments on statically indeterminate structures and continuum mechanics
+- Exam week period Q2, eam assignments on buckling and continuum mechanics
+- Exam week Q3, exam assignments on statically indeterminate structures, on buckling and on continuum mechanics
 
-During the assignments, you're allowed to bring your books, notes, etc. and you're allowed to use your laptop including software like SymPy. You're not allowed to communicate during the exam, which will be strictly monitored. Furthermore, you're not allowed to use structural analysis software.
+During the exam assignments, you're allowed to bring your books, notes, etc. and you're allowed to use your laptop including software like SymPy. You're not allowed to communicate during the exam session, which will be strictly monitored. Furthermore, you're not allowed to use structural analysis software.
 
-For each exam (consisting of one or more assignments) you'll have three hours.
+For each exam sessions(consisting of one or more assignments) you'll have three hours.
 
 You pass the courses when you scores sufficient (minimum 6.0) for an assignments on each of the subjects. Each subject is graded separately as a partial grade.
