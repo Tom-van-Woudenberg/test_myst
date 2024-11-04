@@ -98,22 +98,22 @@ parse:
       ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming homework|
       |:-:|:-:|:-:|:-:|:--:|:-:|:-:|
       |Homework deadlines |||||[Read theory and make homework exercise cross-sectional properties](homework11.3) <br>{bdg-secondary}`Prerequisites`|Monday: [Read theory and make homework exercise normal stresses](homework12.1) <br>{bdg-secondary}`Prerequisites`|
-      |Class activities|[Review exam assignment statically indeterminate structures](session11.1)<br>{bdg-primary-line}`New content` <br> {bdg-secondary-line}`Prerequisites`|||[Demonstration transforming stress- and strain tensors](session11.2) <br>{bdg-primary-line}`New content`|[Guided practice on cross-sectional properties](session11.3) <br> {bdg-secondary-line}`Prerequisites`|
+      |Class activities|[Review exam assignment statically indeterminate structures](lesson11.1)<br>{bdg-primary-line}`New content` <br> {bdg-secondary-line}`Prerequisites`|||[Demonstration transforming stress- and strain tensors](lesson11.2) <br>{bdg-primary-line}`New content`|[Guided practice on cross-sectional properties](lesson11.3) <br> {bdg-secondary-line}`Prerequisites`|
     week12: |
       ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming homework|
       |:-:|:-:|:-:|:-:|:--:|:-:|:-:|
       |Homework deadlines |[Read theory and make homework exercise normal stresses](homework12.1) <br>{bdg-secondary}`Prerequisites`|[Read theory and make homework exercise shear stresses in bending elements](homework12.2) <br>{bdg-secondary}`Prerequisites`|||[Read theory and make homework exercise core of cross-section](homework11.3) <br>{bdg-secondary}`Prerequisites`|Monday: [Read theory and make homework exercises transforming tensors](homework13.1) <br>{bdg-primary}`New content`|
-      |Class activities|[Guided practice on normal stresses](session12.1)<br>{bdg-secondary-line}`Prerequisites`|[Guided practice on shear stresses in bending elements](session12.2) <br>{bdg-secondary-line}`Prerequisites`|||[Guided practice on core of cross-section](session12.3) <br> {bdg-secondary-line}`Prerequisites`|
+      |Class activities|[Guided practice on normal stresses](lesson12.1)<br>{bdg-secondary-line}`Prerequisites`|[Guided practice on shear stresses in bending elements](lesson12.2) <br>{bdg-secondary-line}`Prerequisites`|||[Guided practice on core of cross-section](lesson12.3) <br> {bdg-secondary-line}`Prerequisites`|
     week13: |
       ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming homework|
       |:-:|:-:|:-:|:-:|:--:|:-:|:-:|
       |Homework deadlines |[Read theory and make homework exercise transforming tensors](homework13.1) <br>{bdg-primary}`New content`|[Read theory and make homework exercise Circle of Mohr](homework13.2) <br>{bdg-primary}`New content`|||[Read theory and make homework exercise torsional internal forces](homework13.3) <br>{bdg-secondary}`Prerequisites`|Monday: [Read theory and make homework exercises shear stresses in torsional elements](homework14.1) <br>{bdg-secondary}`Prerequisites`|
-      |Class activities|[Guided practice on transforming tensors](session13.1)<br>{bdg-primary-line}`New content`|[Guided practice on Circle of Mohr](session13.2) <br>{bdg-primary-line}`New content`|||[Guided practice on torsional internal forces](session13.3) <br> {bdg-secondary-line}`Prerequisites`|
+      |Class activities|[Guided practice on transforming tensors](lesson13.1)<br>{bdg-primary-line}`New content`|[Guided practice on Circle of Mohr](lesson13.2) <br>{bdg-primary-line}`New content`|||[Guided practice on torsional internal forces](lesson13.3) <br> {bdg-secondary-line}`Prerequisites`|
     week14: |
       ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming homework|
       |:-:|:-:|:-:|:-:|:--:|:-:|:-:|
       |Homework deadlines |[Read theory and make homework exercise shear stresses in torsional elements](homework14.1) <br>{bdg-secondary}`Prerequisites`|[Read theory and make homework exercise shear force centre](homework14.2) <br>{bdg-secondary}`Prerequisites`|||[Read theory and make homework exercise failure criteria](homework14.3) <br>{bdg-primary}`New content`|Wednesday: [Prepare for exam statically indeterminate structure and continuum mechanics](homework15.2) <br>{bdg-primary}`New content`<br>{bdg-secondary}`Prerequisites`|
-      |Class activities|[Guided practice on shear stresses in torsional elements](session14.1)<br>{bdg-secondary-line}`Prerequisites`|[Guided practice on shear force centre](session14.2) <br>{bdg-secondary-line}`Prerequisites`|||[Guided practice on failure criteria](session14.3) <br> {bdg-primary-line}`New content`|
+      |Class activities|[Guided practice on shear stresses in torsional elements](lesson14.1)<br>{bdg-secondary-line}`Prerequisites`|[Guided practice on shear force centre](lesson14.2) <br>{bdg-secondary-line}`Prerequisites`|||[Guided practice on failure criteria](lesson14.3) <br> {bdg-primary-line}`New content`|
     week15: |
       ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming homework|
       |:-:|:-:|:-:|:-:|:--:|:-:|:-:|
