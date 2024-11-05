@@ -103,7 +103,7 @@
 				<rect x="0" y="199.175" width="102.047" height="14.1732" class="st5"/>
 				<text x="31.19" y="209.86" class="st6" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>180 mm</text>			</g>
 		</g>
-		<g id="group53-45" transform="translate(258.178,-34.3908)" v:mID="53" v:groupContext="group">
+		<g id="group53-45" transform="translate(258.178,-37.2254)" v:mID="53" v:groupContext="group">
 			<title>Maatlijn verticaal.53</title>
 			<g id="group54-46" transform="translate(-204.845,213.348) rotate(-90)" v:mID="54" v:groupContext="group">
 				<title>Maatlijn.31</title>
@@ -148,20 +148,20 @@
 			<switch>
 				<foreignObject x="0" y="198.353" width="10.9984" height="14.9953"
 						requiredExtensions="http://schemas.microsoft.com/visio/2003/SVGExtensions/">
-					<v:foreignData v:orgSize="2020" clip="rect(0 0 0 0)" v:data="data:metafile;base64,eNqdVEtok0EQ/vZPYtu0mqQ+MF
-								aaVKkGn9WD9iCYmMQHmhKa+EJojPVXA01Sm1bNqQE9iB7q0YuoqDfBgxeVCoIiinoTREEQEc+iEUSxcWb/Xfsn+MLhH3b+eX
-								yzOzO7AsAQsQMWLSL2YppOCcBnAMF4YjMg8K4J6CK9C/VUIX2vE/CQb0jU2867mxE+5QQB4DrZLxFviW2LkluFE8+8+/kT+5
-								02OEMLbSZGJifGZTRnMoRQkjBqtZqUVgm/0rUa2q/NeCP2i1aSlszwoA2J7OiRdHnYBJJoV9oFqDGEPOU9kt4TBwn+IXEz6b
-								4S2mxr4wYdCCuFhT3HSGGvlGaT5BcstXBmw7KGxQAWkvTNqExZ4efkrmHAm87lzVKwzzwe7C/mswVMUc5bH97iaefFY2HwWT
-								mPPDvWujmII8tUiXG16yoiw8OlxOYoVe0Z6ZhjZil3uBBMDebMwqC5IritMLgKLoEmZyyVSK+nje7OFSJDQ5uypdxgtHjQTG
-								YPmyX4XI3b8TlS5fyB4hCZosWxkZw5wkb4nIl0MH5idCRLxWvuWh2fiK2OJKtez5ZMJPkx0EnyXE8E1Xi1uzqxKUOS1xPlZS
-								JeXZbZWp2QmjCt41tJiCzLxDLxKn8RT5ugIwqDiOoj6OgO+qcyuAU1+2QZM+CjE7rV6d2yZ9ZY6R5psmpnqNp70SS1k9KDEi
-								xKlUujZh54jjOMj9tLDy1n5v/zX9+qeIdcP8iNMHH2NpWtVd2JWbAmo6Xhv1358v78SuYRm6dkvzqJ/V5pjP0U9IZ4CckLFQ
-								bwcwLl/HTb8DtU3F7iFPE69e8X1v985ctx2neAOEz2flqHBQ8kXbwpvgPTdE6o3DytyCEPEyUE0UfrcVr7USRdFgX8GyXbnX
-								Kd77h6/zsN8VgowC2s7VlD70dAoOLq/bKYNhK+5n/I9m4Vd/TlFemP5M2zbB8LdQVgq4v20/pf4bO3xtf5OlRcx6t6/AGlD6
-								sE1tswjX/jyQWFb/2HG942rbfnP3hMjg1037jeacWN7yzDBSbPbtzw+sxGjcm6HQ31rClKWu+CBNIz4/hF/XVutum+O1XOJp
-								vfpLpJ8qYQcgmj1PE8/p9aH3Nd/9b3y/tc/9R3x2/6/uCF5b+rs6fPbtf/3q7eB3/Kv/PRxbr40J0L9y2Enjqchnb/Fm9XZ1
-								+tse9c75BtBrSe6l/pnr6nlR4le2z6mSRvt70ZLhuWsMkOm+xUb9IcFeNV8g/C+zEj"/>
+					<v:foreignData v:orgSize="2020" clip="rect(0 0 0 0)" v:data="data:metafile;base64,eNqdVE1oU1kU/u5L0p+0M0n8Y2
+								KlTSutwZmp1YXjQjAxiT/MPAlNrCMDjZn6xgk0SW3qT1YN6EJ0UUFmqAtxRN0JblW6GPAHRQUXiigIRQbXZXgrxWbOue/e6U
+								vQGfHwDu/c8/Ode8859woA48QeONRHHMQSnRRAyAAiKXMHIPBXK9BLeh8aqUb6LV4gQL5R0Wib9bchdtILAsA1sv9BvDO5O0
+								FuNU5sj9x9xn6nDM7QTptJksmLaRnNmQwhlCSMer0upUERVroOQ/t1GvPigOggaaAlgE6Y+alfs9UJC0hjmdKuRp0h5Cn/JO
+								kNcYTg7xG3ke4toS13Nm7QgfCtcLBXGBnsl9JyksKCpXbObDjWmBjFGpLeGbVFJ/ys3DUMBLOFolWJ7LGORYbLxXwJi5Tzxs
+								JrPOq+eDQGPivnkWfHJj8HcWSVKjGtdm0jPjFRMXckqGqPScectCqFQ6VIZqxglcasbyK7S2OD8Am0epMZM/sdbXRfoRQfH9
+								+erxTGEuWDVjp/yKog5GveTsiTqRZ/Lo+TKVE+MlmwJtmIkNfMRlLHpybzVLy23g2pmeSGeNoOBnbm4um/e7pJXhmIw07Z/f
+								bM9hxJwUCCfzMpe31ulz0jNTH6T+8iIb4+l8ylbP7igU5BRxQGEdVH0NE9tKYy+AU1+0QVLQjRCf3q9H7ZM2esdI80ObUzVO
+								2DaJXaOelBCfoy1cqUVQSe4jTj4+a6X75m5vXs29cq3iP/C3IjTJy9U2XrUHfiSziT0d60XqZ8eX9hJfOIrVJyWJ3Efa80xg
+								EKmiceIHmNwgD+nUA5P/0u/C4Vt584Q7xZrcPCWX+lfDlO+44Sx8g+TP8JwQNJF2+R78ASnRUqN08rCijCQgUR7KH/MfoPo0
+								y6PEr4NJoNPzln8n48V26/pyE+HzW5hfUfN9L7YQrMt5yrraWNxK6G77G9X8UdfnFZ+i/0/P4b289He0246qL9tP5D+Oyt8X
+								W+LhXX9bIRf1TpYyqB8zYs4V9/eEHhO+tY09um9e78B4/KsYHuG9c7q7j5nWW4nrkz27a+Or1NY7Luh6Z61hWlnXdBAumZ8X
+								yg/jo323TfvSpnq8tvTt0keVMIuYIp6ngRn08dD7iu/9f3Sz/5Pqnvno/0/c5zx3+ke2jQbdfrYO+WO/+Vf+/9iw3x0VsXbj
+								sIQw04Te3+KN5I92C9ue9c76hrBrSe6l/rX7qntSElB1z6L0j+3vVm+FxYwiV7XLJXvUkrVExQyf8AbVk7GA=="/>
 				</foreignObject>
 				<svg viewBox="0 0 14.136 19.301" enable-background="new" color-interpolation-filters="sRGB" clip="rect(0 0 0 0)"
 						height="14.9953" overflow="hidden" preserveAspectRatio="none" width="10.9984" x="0" y="198.353">
@@ -175,7 +175,7 @@
 							</g>
 						</g>
 					</g>
-					<mask id="mfid9" fill-rule="evenodd" fill="white" stroke="none"/>
+					<mask id="mfid13" fill-rule="evenodd" fill="white" stroke="none"/>
 				</svg>
 			</switch>
 			<rect v:rectContext="foreign" x="0" y="198.353" width="10.9984" height="14.9953" class="st5"/>
@@ -186,20 +186,20 @@
 			<switch>
 				<foreignObject x="0" y="201.358" width="10.9984" height="11.9906"
 						requiredExtensions="http://schemas.microsoft.com/visio/2003/SVGExtensions/">
-					<v:foreignData v:orgSize="2020" clip="rect(0 0 0 0)" v:data="data:metafile;base64,eNqdVE1MU0EQnn2v5adFW34UKw
-								SKpkiIAnpQbrS05SdSIFBRokmp8MAm9EfKj2AMTeSgcoDECxeCRo0XEw9ejOFgAjEaNfFgYvRIjGdiejAQqTPv7aavDShx8i
-								Zvdn6+mZ3ZXQYAo8gSaFSFbIU0zTGAp8h2r68FgMH3XM3HCJmUQH2jAcCCQDUs07ZkygPnnAEQAJ6h/QFyq6fdjW4JkAGuRG
-								+pfnckypAPIHvQZIBZVUuZJMa4xKRUKqVKdczGdWZJ+BVICTbAzChV51igAHzB8Wv+6ZiC9UMR1x6FFEGou3yN0g9kO8IPI+
-								ehbgvRirXCJdwQnGIadonUjzsgqRilHEZSPmWWNKuTdUA5SttSYkcLX1SrxtZa/aGwErd3KlP2nmg4GIEdzPlycwM+VKxMOo
-								H2SnnUvcMZEwVR5Ax2YpZXnQRXLBb3tbixax9RR+xR4qGRiL13MKREBpWT9vbIYB0YGeQaPL0+/zks9GIo4hodbQ7GQ4Pu6J
-								DSHRxR4lBozC6nUO6dDl+NjqLJHZ0YCyljZIRCg89v994YHwti8/Kq6r0LnnpXd9JqaQ24un9WVqB8yOKCpDfpSC40B1CyWt
-								z0W/AmawNtyQVV48T/bBsKrtqAJ+BN0ueyFDDcIpOQsD8Mty7jGttgYjjs2zOQA4W4QxPfvUmdmXasxIwEab2TeO+tkKtqV1
-								UPTHCsdzo+roQBPsM9woe1E8OVxLRe2trg8bL631QLIaLsBTybmd+Jg8gWmnrWuoj7Un02LtMRO8xlG9+J/l4JjAG6BMjVKJ
-								dzDKLitKvk0OGX8Ti6S/3IZ/k6h2nrI9yX4oRvB7IT7T34jzHtrid26A6kaZHx3HRaIQRhUCCOt6YT/1P474Eo6oIQgf3Rku
-								3TfR/VIz9e+42HeLt0gkaYunQa348JzGRu/HUcC3E+sb0hu4PHXf/6SPWPKS/myb5dWjUBur4IP6HfDV/15vgiXxmPK/uWid
-								/B9U6eQHsb0vjP3y9zfG3tzHrbhF6ff2hSPTYg5kb99nPOfmcJrnJ1vulm/t0mgckgXZegFKdu7V0AOqbizMi79F/kJpuYu4
-								HnzNX5rfKC1JsC0zjzcZx4GP6fzO+or/+a+8PLxn3NXd5j7utfNP++ioYuvV2srVWN63/Lf+HtSkZ8zavlNQ2hIQMna9x74v
-								VVdKWy5079rtGdAaHH/icc6XuaaOCyRac/gPJ53Zth1GExnSzrZAN/k0p4jJXLfwABzzsb"/>
+					<v:foreignData v:orgSize="2020" clip="rect(0 0 0 0)" v:data="data:metafile;base64,eNqdVE1ME1EQnrfbQiloy4/GCo
+								Gi4SdEAT0oN7a0BYyUEKgo8VBqWbAJbZEiCB5oIgd/DpAYDReCRo0XE2/GGA4mEKNREw8mRr0YYrxwIaYHA5E6s/teum1AiZ
+								Od7Lz5+WbezHuPAcAwsgQ6VSLbIU0zDOAxstPrawVg8D1X9zFDJiVQ32QCsCFQLcu0zVstoMyYAAHgCdrvIbd5TrnRLQEyQP
+								zb12fkd12iDHkAsgdNJpjWoimTxBiXmJRKpTSpnjm4Ll8SfgVSgvWzfJSqc2xQAL7g2EX/5IiK9UMR1x6EFEFou3yJ0g9kJ8
+								IPIltQt4FoxXrhEm4IjjIdu0Tqwx2QVIxSDiMpjzJLulVhHVCG0qaU2NLD57SqsbV2fziixp2d6oSzOxYJRmELcz5fX4V35Y
+								vjCtBeKY+2dzhupSCKnMJOTPOqk+AaGYn7Wt3YtfeoI/ao8fBQ1NkTCqvRkHrEeSoaqgczg1yTp8fnP4mFng1HXcPDLcF4OO
+								SODahdwSE1DoXm7HIK5Z7JyIXYMJrcscujYXWUjFBo8vmd3itjo0FsnqWywTvraXB1Je22toCr62dFOcr7bC5IepNVydmWAE
+								p2m5t+s95kXaA9OatpFPxPt6Pgqgt4At4kfS5bAcMtMgkJ+8Nw6zKusQ1WhsO+NgU5UIg7tPLdW7WZ6cdKzEiQ3juJ994OuZ
+								p2SfPABId6JuNjagTgI9wkfFiuGawgpvX8xiqPl7X/ulYIEWUv4Nny+Z3Yi2yjqWeti7gv1efgMh2x/Vx28J0Y75XA6KdLgF
+								yNchnHICpOu0pVBvxSHkd3qQ/5BF/nMH19gPtSnPDtQFbQ3o3/Eabf9cQW3YE0zTGem04rhCECKsTx1nTifwL/3RBDXRCisD
+								uad3y47aN65IfLv/EQr9Vs0ghT547h+7HJQLFIvw5jIcojxyuyV/G4S58faP7rFXfvkH2tpnIzPfu0n9Bvh087EfgiXymPK/
+								2Sid/B9QpPoL8Nafynbxc4vr5Wst42oTfmHxjXjg2IuVG//Zyz31mCq1i61Xw170azwGSQrktQilOX/i4AHVNxZuRt+i9yk0
+								3M3cRz5hr8lnhB2k2BSZz5GE48Av9P+W+or/+a+/3z5l3NXd5h7iufdP/e8sYGo12s7ZVNK3/Lf+b1YkZ87YuFZR2hMQMna9
+								w74vWWN6Sy5079rjWcAaHH/ieq0vc00chlm0G/B+XThjfDbMBiBlk2yCb+JpXwGDuX/wCyS2H/"/>
 				</foreignObject>
 				<svg viewBox="0 0 14.136 15.434" enable-background="new" color-interpolation-filters="sRGB" clip="rect(0 0 0 0)"
 						height="11.9906" overflow="hidden" preserveAspectRatio="none" width="10.9984" x="0" y="201.358">
@@ -213,18 +213,18 @@
 							</g>
 						</g>
 					</g>
-					<mask id="mfid10" fill-rule="evenodd" fill="white" stroke="none"/>
+					<mask id="mfid14" fill-rule="evenodd" fill="white" stroke="none"/>
 				</svg>
 			</switch>
 			<rect v:rectContext="foreign" x="0" y="201.358" width="10.9984" height="11.9906" class="st5"/>
 		</g>
 		<g id="shape185-83" v:mID="185" v:groupContext="shape" transform="translate(35.6584,-184.627)">
 			<title>Blad.185</title>
-			<desc>Doorsnede mag als dunwandig worden beschouwd</desc>
+			<desc>Cross-section can be considered as thin-walled</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
 			<v:textRect cx="102.047" cy="199.175" width="204.1" height="28.3465"/>
 			<rect x="0" y="185.002" width="204.094" height="28.3465" class="st5"/>
-			<text x="8.4" y="195.58" class="st6" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>Doorsnede mag als dunwandig worden <tspan
-						x="75.05" dy="1.2em" class="st9">beschouwd</tspan></text>		</g>
+			<text x="5.57" y="195.58" class="st6" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>Cross-section can be considered as thin-<tspan
+						x="86.05" dy="1.2em" class="st9">walled</tspan></text>		</g>
 	</g>
 </svg>
