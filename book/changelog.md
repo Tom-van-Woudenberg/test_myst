@@ -2,6 +2,9 @@
 
 Starting September 2nd, all changes to the book are announced here.
 
+## 2024-11-07
+- Moved Week 11 session 2 to [Week 11 session 1](week_11/session_2/intro.ipynb)
+
 ## 2024-11-05 [`2024_week1-11-3`](https://github.com/TeachBooks/bridging_mechanics/releases/tag/2024_week1-11-3)
 - Added [Week 11 session 3](week_11/session_3/intro.ipynb)
 
@@ -10,7 +13,7 @@ Starting September 2nd, all changes to the book are announced here.
 
 ## 2024-11-01 [`2024_week1-10_v3`](https://github.com/TeachBooks/bridging_mechanics/releases/tag/2024_week1-10_v3)
 - Added [Planning Q2 week 1-5 added](schedule.md)
-- Added [Week 11 session 1](week_11/session_1/intro.md)
+- Added [Week 11 session 1](week_11/session_1/intro.ipynb)
 
 ## 2024-10-18 [`2024_week1-10`](https://github.com/TeachBooks/bridging_mechanics/releases/tag/2024_week1-10)
 - Added [Week 8 session 3](week_8/session_3/intro.ipynb)

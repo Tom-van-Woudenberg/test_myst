@@ -98,7 +98,7 @@ parse:
       ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming homework|
       |:-:|:-:|:-:|:-:|:--:|:-:|:-:|
       |Homework deadlines |||||[Read theory and make homework exercise cross-sectional properties](homework11.3) <br>{bdg-secondary}`Prerequisites`|Monday: [Read theory and make homework exercise normal stresses](homework12.1) <br>{bdg-secondary}`Prerequisites`|
-      |Class activities|[Review exam assignment statically indeterminate structures](lesson11.1)<br>{bdg-primary-line}`New content` <br> {bdg-secondary-line}`Prerequisites`|||[Demonstration transforming stress- and strain tensors](lesson11.2) <br>{bdg-primary-line}`New content`|[Guided practice on cross-sectional properties](lesson11.3) <br> {bdg-secondary-line}`Prerequisites`|
+      |Class activities|[Review exam assignment statically indeterminate structures](lesson11.1)<br>{bdg-primary-line}`New content` <br> {bdg-secondary-line}`Prerequisites` <br> [Demonstration transforming stress- and strain tensors](lesson11.1) <br>{bdg-primary-line}`New content` ||||[Guided practice on cross-sectional properties](lesson11.3) <br> {bdg-secondary-line}`Prerequisites`|
     week12: |
       ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming homework|
       |:-:|:-:|:-:|:-:|:--:|:-:|:-:|
