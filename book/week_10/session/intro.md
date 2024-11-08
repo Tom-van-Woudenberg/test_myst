@@ -29,7 +29,9 @@ This gives:
 - ${N_{{\rm{AD}}}} = - \cfrac{4}{5}{B_{\rm{v}}}$
 - ${N_{{\rm{BD}}}} = + {B_{\rm{v}}}$
 - ${N_{{\rm{CD}}}} = - \cfrac{3}{4}{B_{\rm{v}}}$
+
 This gives elongations:
+
 - $\Delta {L_{{\rm{BD}}}} = \cfrac{{{B_{\rm{v}}}}}{{7500}}$
 - $\Delta {L_{{\rm{AD}}}} = - \cfrac{{{B_{\rm{v}}}}}{{4800}}$
 - $\Delta {L_{{\rm{CD}}}} = - \cfrac{{{B_{\rm{v}}}}}{{10000}}$
@@ -43,6 +45,7 @@ Resulting in a williot like this (keeping the unknown value of $$B_\text{v}$$ co
 This gives a vertical displacement of $\text{B}$ of $\cfrac{{3{B_{\rm{v}}}}}{{6400}}$.
 
 With the requirements of $30 \text{ mm}$ this leads to $B_\text{v} = 64 \text{ kN}$, resulting in:
+
 - $N_\text{BD} = +64 \text{ kN}$
 - $N_\text{AD} = -80 \text{ kN}$
 - $N_\text{CD} = -48 \text{ kN}$
