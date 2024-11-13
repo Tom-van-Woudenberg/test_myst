@@ -102,7 +102,7 @@ parse:
     week12: |
       ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming homework|
       |:-:|:-:|:-:|:-:|:--:|:-:|:-:|
-      |Homework deadlines |[Read theory and make homework exercise normal stresses](homework12.1) <br>{bdg-secondary}`Prerequisites`|[Read theory and make homework exercise shear stresses in bending elements](homework12.2) <br>{bdg-secondary}`Prerequisites`|||[Read theory and make homework exercise core of cross-section](homework11.3) <br>{bdg-secondary}`Prerequisites`|Monday: [Read theory and make homework exercises transforming tensors](homework13.1) <br>{bdg-primary}`New content`|
+      |Homework deadlines |[Read theory and make homework exercise normal stresses](homework12.1) <br>{bdg-secondary}`Prerequisites`|[Read theory and make homework exercise shear stresses in bending elements](homework12.2) <br>{bdg-secondary}`Prerequisites`|||[Read theory and make homework exercise core of cross-section](homework12.3) <br>{bdg-secondary}`Prerequisites`|Monday: [Read theory and make homework exercises transforming tensors](homework13.1) <br>{bdg-primary}`New content`|
       |Class activities|[Guided practice on normal stresses](lesson12.1)<br>{bdg-secondary-line}`Prerequisites`|[Guided practice on shear stresses in bending elements](lesson12.2) <br>{bdg-secondary-line}`Prerequisites`|||[Guided practice on core of cross-section](lesson12.3) <br> {bdg-secondary-line}`Prerequisites`|
     week13: |
       ||Monday|Tuesday|Wednesday|Thursday|Friday|Upcoming homework|
