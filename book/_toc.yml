@@ -200,13 +200,19 @@ parts:
   - file: week_12/intro
     sections:
     - file: week_12/homework_1/intro
-      sections: 
-      - file: external/mechanics-BSc/book/stresses_displacements/solve_extension/normal
-      - file: external/mechanics-BSc/book/stresses_displacements/solve_bending/normal     
+      sections:
+      - file: external/mechanics-BSc/book/stresses_displacements/solve_extension/intro
+        sections: 
+        - file: external/mechanics-BSc/book/stresses_displacements/solve_extension/normal
+      - file: external/mechanics-BSc/book/stresses_displacements/solve_bending/intro
+        sections: 
+        - file: external/mechanics-BSc/book/stresses_displacements/solve_bending/normal     
     - file: week_12/session_1/intro
     - file: week_12/homework_2/intro
-      sections: 
-      - file: external/mechanics-BSc/book/stresses_displacements/solve_bending/shear
+      sections:
+      - file: week_12/homework_2/copy
+        sections:
+        - file: external/mechanics-BSc/book/stresses_displacements/solve_bending/shear
     - file: week_12/homework_3/intro
       sections: 
       - file: external/mechanics-BSc/book/stresses_displacements/cross-sectional/core-cross-section
