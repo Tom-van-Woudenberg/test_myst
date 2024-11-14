@@ -44,3 +44,6 @@ If you're stuck on a certain topic, you can also visit the teaching assistants d
 - Laurens van Bavel
 - Lisette de Langen
 - Martijn Westerhof
+
+## TeachBook editing
+This online TeachBooks has partly been edited by Bart Slingerland.
