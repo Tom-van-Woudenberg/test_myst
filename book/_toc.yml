@@ -221,3 +221,4 @@ parts:
   - file: changelog
   - file: genindex
   - file: references
+  - file: credits
