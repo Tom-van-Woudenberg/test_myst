@@ -24,6 +24,7 @@ sphinx:
       exclude_patterns: ["**/**"]
     html_theme_options:
       repository_url: "https://github.com/TeachBooks/bridging_mechanics"
+      path_to_docs: "book"
       use_repository_button: true
       use_edit_page_button: true
       use_issues_button : true
