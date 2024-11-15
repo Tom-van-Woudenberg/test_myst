@@ -25,6 +25,7 @@ sphinx:
     html_theme_options:
       repository_url: "https://github.com/TeachBooks/bridging_mechanics"
       use_repository_button: true
+      use_edit_page_button: true
       use_issues_button : true
       launch_buttons:
         thebe: true
