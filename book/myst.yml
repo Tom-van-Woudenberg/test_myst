@@ -1,0 +1,312 @@
+version: 1
+project:
+  title: Bridging course Structural Mechanics
+  authors:
+    - name: Tom van Woudenberg
+  bibliography:
+    - external/mechanics-BSc/book/references.bib
+  toc:
+    - file: intro.md
+    - title: Course information
+      children:
+        - file: course_information.md
+        - file: schedule.md
+        - file: instructions.md
+        - file: contact_information.md
+        - url: https://brightspace.tudelft.nl/d2l/home/703722
+          title: Brightspace announcements 📢
+    - title: Activities
+      children:
+        - file: week_1\intro.md
+          children:
+            - file: week_1\session_1\intro.md
+            - file: week_1\session_2\intro.md
+            - file: week_1\homework_3\intro.md
+            - file: week_1\session_3\intro.md
+              children:
+                - file: week_1\session_3\FMM.md
+        - file: week_2\intro.md
+          children:
+            - file: week_2\session_1\intro.ipynb
+            - file: week_2\homework_2\intro.md
+              children:
+                - file: >-
+                    external\mechanics-BSc\book\support_internal_forces\model\intro.md
+                  children:
+                    - file: >-
+                        external\mechanics-BSc\book\support_internal_forces\model\elements.md
+                    - file: >-
+                        external\mechanics-BSc\book\support_internal_forces\model\coordinate.md
+                    - file: >-
+                        external\mechanics-BSc\book\support_internal_forces\model\loads.md
+                    - file: >-
+                        external\mechanics-BSc\book\support_internal_forces\model\internal_forces.md
+                    - file: >-
+                        external\mechanics-BSc\book\support_internal_forces\model\supports.md
+                    - file: >-
+                        external\mechanics-BSc\book\support_internal_forces\model\hinges.md
+                    - file: >-
+                        external\mechanics-BSc\book\support_internal_forces\model\FBD.md
+                    - file: >-
+                        external\mechanics-BSc\book\support_internal_forces\model\structures.md
+                - file: >-
+                    external\mechanics-BSc\book\support_internal_forces\transforming_forces\Resolution_of_forces.md
+                - file: >-
+                    external\mechanics-BSc\book\support_internal_forces\equilibrium\intro.md
+                  children:
+                    - file: >-
+                        external\mechanics-BSc\book\support_internal_forces\equilibrium\particle.md
+                    - file: >-
+                        external\mechanics-BSc\book\support_internal_forces\equilibrium\particle3d.md
+                    - file: >-
+                        external\mechanics-BSc\book\support_internal_forces\equilibrium\rigid_body.md
+                    - file: >-
+                        external\mechanics-BSc\book\support_internal_forces\equilibrium\rigid_body3d.md
+                - file: >-
+                    external\mechanics-BSc\book\support_internal_forces\support_reactions\intro.md
+                  children:
+                    - file: >-
+                        external\mechanics-BSc\book\support_internal_forces\support_reactions\equilibrium.md
+                - file: >-
+                    external\mechanics-BSc\book\support_internal_forces\internal_forces_truss\intro.md
+                  children:
+                    - file: >-
+                        external\mechanics-BSc\book\support_internal_forces\internal_forces_truss\zero-force.md
+                    - file: >-
+                        external\mechanics-BSc\book\support_internal_forces\internal_forces_truss\cross_section.md
+                - file: >-
+                    external\mechanics-BSc\book\support_internal_forces\internal_forces_beam\intro.md
+                  children:
+                    - file: >-
+                        external\mechanics-BSc\book\support_internal_forces\internal_forces_beam\cross_section.md
+            - file: week_2\session_2\intro.md
+            - file: week_2\homework_3\intro.md
+              children:
+                - file: >-
+                    external\mechanics-BSc\book\support_internal_forces\ode\intro.md
+                  children:
+                    - file: >-
+                        external\mechanics-BSc\book\support_internal_forces\ode\extension.md
+                    - file: >-
+                        external\mechanics-BSc\book\support_internal_forces\ode\bending.md
+                    - file: >-
+                        external\mechanics-BSc\book\support_internal_forces\ode\cable.md
+                - file: week_2\homework_3\toc_file_2.md
+                  children:
+                    - file: >-
+                        external\mechanics-BSc\book\support_internal_forces\internal_forces_beam\ode.md
+                - file: >-
+                    external\mechanics-BSc\book\support_internal_forces\cable\intro.md
+                  children:
+                    - file: >-
+                        external\mechanics-BSc\book\support_internal_forces\cable\equilibrium.md
+                    - file: >-
+                        external\mechanics-BSc\book\support_internal_forces\cable\ode.md
+            - file: week_2\session_3\intro.ipynb
+        - file: week_3\intro.md
+          children:
+            - file: week_3\homework_1\intro.md
+              children:
+                - file: >-
+                    external\mechanics-BSc\book\stresses_displacements\model\intro.md
+                  children:
+                    - file: >-
+                        external\mechanics-BSc\book\stresses_displacements\model\stress-strain.md
+                    - file: >-
+                        external\mechanics-BSc\book\stresses_displacements\model\fibre_model.md
+                - file: >-
+                    external\mechanics-BSc\book\stresses_displacements\strain_diagram\intro.md
+                  children:
+                    - file: >-
+                        external\mechanics-BSc\book\stresses_displacements\strain_diagram\extension.md
+                    - file: >-
+                        external\mechanics-BSc\book\stresses_displacements\strain_diagram\bending.md
+                - file: >-
+                    external\mechanics-BSc\book\stresses_displacements\kinematic\intro.md
+                  children:
+                    - file: >-
+                        external\mechanics-BSc\book\stresses_displacements\kinematic\extension.md
+                    - file: >-
+                        external\mechanics-BSc\book\stresses_displacements\kinematic\bending.md
+                - file: >-
+                    external\mechanics-BSc\book\stresses_displacements\constitutive\intro.md
+                  children:
+                    - file: >-
+                        external\mechanics-BSc\book\stresses_displacements\constitutive\extension.md
+                    - file: >-
+                        external\mechanics-BSc\book\stresses_displacements\constitutive\bending.md
+                - file: >-
+                    external\mechanics-BSc\book\stresses_displacements\displacements_truss\intro.md
+                  children:
+                    - file: >-
+                        external\mechanics-BSc\book\stresses_displacements\displacements_truss\ode.md
+                - file: >-
+                    external\mechanics-BSc\book\stresses_displacements\displacements_frame\intro.md
+                  children:
+                    - file: >-
+                        external\mechanics-BSc\book\stresses_displacements\displacements_frame\ode.md
+            - file: week_3\session_1\intro.ipynb
+            - file: week_3\homework_2\intro.md
+              children:
+                - file: external\mechanics-BSc\book\tools\sympy.ipynb
+                - file: external\mechanics-BSc\book\tools\sympy_mech.ipynb
+            - file: week_3\session_2\intro.ipynb
+            - file: week_3\session_3\intro.md
+        - file: week_4\intro.md
+          children:
+            - file: week_4\homework_1\intro.md
+              children:
+                - file: week_4\homework_1\copy_2.md
+                  children:
+                    - file: >-
+                        external\mechanics-BSc\book\stresses_displacements\model\small_rotations.md
+                - file: >-
+                    external\mechanics-BSc\book\statically_inderminate\determinancy.md
+                - file: week_4\homework_1\copy_1.md
+                  children:
+                    - file: >-
+                        external\mechanics-BSc\book\stresses_displacements\displacements_truss\equations.md
+            - file: week_4\session_1\intro.ipynb
+            - file: week_4\homework_2\intro.md
+              children:
+                - file: week_4\homework_2\copy_1.md
+                  children:
+                    - file: >-
+                        external\mechanics-BSc\book\stresses_displacements\displacements_truss\williot.md
+            - file: week_4\session_2\intro.md
+            - file: week_4\homework_3\intro.md
+              children:
+                - file: >-
+                    external\mechanics-BSc\book\statically_inderminate\force_method\force_method.md
+                  children:
+                    - file: >-
+                        external\mechanics-BSc\book\statically_inderminate\force_method\extension.md
+            - file: week_4\session_3\intro.ipynb
+        - file: week_5\intro.md
+          children:
+            - file: week_5\session_1\intro.ipynb
+            - file: week_5\homework_2\intro.md
+              children:
+                - file: week_5\homework_2\copy.md
+                  children:
+                    - file: >-
+                        external\mechanics-BSc\book\support_internal_forces\internal_forces_beam\diagrams.md
+            - file: week_5\session_2\intro.md
+            - file: week_5\homework_3\intro.md
+              children:
+                - file: week_5\homework_3\copy.md
+                  children:
+                    - file: >-
+                        external\mechanics-BSc\book\stresses_displacements\displacements_frame\forget-me-nots.md
+            - file: week_5\session_3\intro.ipynb
+        - file: week_6\intro.md
+          children:
+            - file: week_6\homework_1\intro.md
+              children:
+                - file: week_6\homework_1\copy.md
+                  children:
+                    - file: >-
+                        external\mechanics-BSc\book\statically_inderminate\force_method\bending.md
+            - file: week_6\session_1\intro.ipynb
+            - file: week_6\homework_2\intro.md
+              children:
+                - file: week_6\homework_2\copy.md
+                  children:
+                    - file: >-
+                        external\mechanics-BSc\book\support_internal_forces\model\mechanisms.md
+                - file: >-
+                    external\mechanics-BSc\book\support_internal_forces\virtual_work\virtual_work.md
+                - file: >-
+                    external\mechanics-BSc\book\support_internal_forces\solve_virtual_work\solve_virtual_work.md
+            - file: week_6\session_2\intro.md
+            - file: week_6\homework_3\intro.md
+              children:
+                - file: week_6\homework_3\copy.md
+                  children:
+                    - file: >-
+                        external\mechanics-BSc\book\statically_inderminate\force_method\moveable_nodes.md
+            - file: week_6\session_3\intro.ipynb
+        - file: week_7\intro.md
+          children:
+            - file: week_7\session_1\intro.ipynb
+            - file: week_7\homework_2\intro.md
+              children:
+                - file: >-
+                    external\mechanics-BSc\book\statically_inderminate\displacement_method.md
+            - file: week_7\session_2\intro.ipynb
+            - file: week_7\session_3\intro.ipynb
+        - file: week_8\intro.md
+          children:
+            - file: week_8\homework_2\intro.md
+              children:
+                - file: >-
+                    external\mechanics-BSc\book\statically_inderminate\support_settlement.md
+                - file: >-
+                    external\mechanics-BSc\book\statically_inderminate\stiffness_influences.md
+            - file: week_8\session_2\intro.ipynb
+            - file: week_8\homework_3\intro.md
+              children:
+                - file: week_8\homework_3\copy.md
+                  children:
+                    - file: >-
+                        external\mechanics-BSc\book\stresses_displacements\constitutive\temperature.md
+                - file: >-
+                    external\mechanics-BSc\book\stresses_displacements\temperature\temperature.md
+                - file: >-
+                    external\mechanics-BSc\book\statically_inderminate\temperature.md
+                  title: >-
+                    Solve statically indeterminate structures subjected to
+                    temperature influences
+            - file: week_8\session_3\intro.ipynb
+        - file: week_10\intro.md
+          children:
+            - file: week_10\homework\intro.md
+            - file: week_10\session\intro.md
+        - file: week_11\intro.md
+          children:
+            - file: week_11\session_1\intro.ipynb
+            - file: week_11\homework\intro.md
+              children:
+                - file: >-
+                    external\mechanics-BSc\book\stresses_displacements\cross-sectional\first-moment-area.md
+                - file: >-
+                    external\mechanics-BSc\book\stresses_displacements\cross-sectional\second-moment-area.md
+            - file: week_11\session_3\intro.ipynb
+        - file: week_12\intro.md
+          children:
+            - file: week_12\homework_1\intro.md
+              children:
+                - file: >-
+                    external\mechanics-BSc\book\stresses_displacements\solve_extension\intro.md
+                  children:
+                    - file: >-
+                        external\mechanics-BSc\book\stresses_displacements\solve_extension\normal.md
+                - file: >-
+                    external\mechanics-BSc\book\stresses_displacements\solve_bending\intro.md
+                  children:
+                    - file: >-
+                        external\mechanics-BSc\book\stresses_displacements\solve_bending\normal.md
+            - file: week_12\session_1\intro.ipynb
+            - file: week_12\homework_2\intro.md
+              children:
+                - file: week_12\homework_2\copy.md
+                  children:
+                    - file: >-
+                        external\mechanics-BSc\book\stresses_displacements\solve_bending\shear.md
+            - file: week_12\homework_3\intro.md
+              children:
+                - file: >-
+                    external\mechanics-BSc\book\stresses_displacements\cross-sectional\core-cross-section.md
+    - title: Miscellaneous
+      children:
+        - file: changelog.md
+        - file: genindex.md
+        - file: references.md
+        - file: credits.md
+  jupyter:
+    lite: true
+site:
+  options:
+    logo: figures/TUDelft_logo_rgb.svg
+    favicon: figures/favicon.ico
+  template: book-theme

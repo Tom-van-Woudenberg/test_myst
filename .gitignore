@@ -130,7 +130,6 @@ dmypy.json
 .pyre/
 
 # Jupyter Book
-_build/
 .teachbooks/
 
 # poetry files
