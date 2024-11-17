@@ -17,7 +17,6 @@ project:
           title: Brightspace announcements 📢
     - title: Activities
       children:
-        - file: sympy.ipynb
         - file: week_1/intro.md
           children:
             - file: week_1/session_1/intro.md
